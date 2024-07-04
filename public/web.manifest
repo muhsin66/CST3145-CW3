@@ -1,0 +1,20 @@
+{
+    "name": "Muhsin",
+    "description": "My After School  Website",
+    "icons": [
+        {
+            "src": "img7.jpeg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img8.jpeg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+        
+    ],
+    "start_url": "index.html",
+    "display":"fullscreen",
+    "background_color": "#B12A34"
+}
